@@ -4,8 +4,8 @@ challenge
 To view the solution simply select 'index.html'.
 
 # Assumptions 
-The list of files are all known
-For the inital commit you'll need to be running XAMPP or WAMP to create a local webserver. 
+- The list of files are all known
+- For the inital commit you'll need to be running XAMPP or WAMP to create a local webserver. 
 
 # Design choices 
 I chose vanilla Javascript due to the fact it's primarily what I develop with at the moment. Some other designs considered are using
